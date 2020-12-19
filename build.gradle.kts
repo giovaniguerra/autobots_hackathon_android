@@ -17,6 +17,17 @@ allprojects {
     }
 }
 
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+        jcenter()
+    }
+    dependencies {
+        classpath("com.google.gms:google-services:4.3.4")
+    }
+}
+
 subprojects {
     apply {
         plugin("io.gitlab.arturbosch.detekt")
