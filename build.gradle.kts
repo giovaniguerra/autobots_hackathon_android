@@ -1,6 +1,6 @@
 plugins {
-    id("com.android.application") version "4.1.1" apply false
-    id("com.android.library") version "4.1.1" apply false
+    id("com.android.application") version "4.0.2" apply false
+    id("com.android.library") version "4.0.2" apply false
     kotlin("android") version "1.4.21" apply false
     kotlin("plugin.serialization") version "1.4.21" apply false
     id("io.gitlab.arturbosch.detekt") version "1.12.0"
