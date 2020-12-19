@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "101510747727",
+    "project_id": "autobots-hackathon-android",
+    "storage_bucket": "autobots-hackathon-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101510747727:android:9fa6b18efcc1b378e83c3a",
+        "android_client_info": {
+          "package_name": "br.com.gok.digital.autobotshackatonandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101510747727-h8gmhsd46a93tm1p4kja5arcc1f73k2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPEMKtxBl3wioGbxwoDhKAiyVFeK56eTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101510747727-h8gmhsd46a93tm1p4kja5arcc1f73k2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
